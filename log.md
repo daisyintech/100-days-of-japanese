@@ -1,4 +1,4 @@
-# 100 Days Of Japanese - Log
+# Daily Log
 
 ### Day 1: May X, 2020
 
