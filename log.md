@@ -15,3 +15,9 @@
 **Progress:**
 * e.g. "need to review XYZ"
 * Note: it would be great to write this in Japanese once you have basic sentence structure down (pro level: blog on a Japanese blog)
+
+
+# Contents
+
+* [Daily Log](log.md)
+* [Resources](resources.md)
