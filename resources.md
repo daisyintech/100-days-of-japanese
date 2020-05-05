@@ -1,20 +1,36 @@
 # Resources for #100DaysOfJapanese
 
-## Websites & Tutorials
+## Tools
+1. [Nihongo dera](https://nihongodera.com/tools/kana-converter) - kana converter
+2. [J-talk](https://j-talk.com/convert) - kana converter
+3. [Voracious](https://voracious.app/): very cool video player with features such as simultaneous display of multiple subtitle languages, export subtitles to Anki & more
+4. Netflix subs browser extension
+5. [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F): Japanese anime subtitles
+6. Anki
+7.
+
+## Websites
 1. JapanesePod101
 2. AJATT
-3. [Voracious](https://voracious.app/): very cool video player with features such as simultaneous display of multiple subtitle languages, export subtitles to Anki & more
-4. aligner-rs: learn how to [use aligner-rs to automatically fix subtitle timings for language learning](https://www.youtube.com/watch?v=8o6EOLU8QW0)
+3. 
+4. 
 5. [Ameblo](https://ameblo.jp/) - blogging, SNS
 6. iTalki
 8. Memrise
 9. Fluentu
+10. [List oj Japanese Media](https://en.wikipedia.org/wiki/Media_of_Japan)
+
+## Tutorials
+1. aligner-rs: learn how to [use aligner-rs to automatically fix subtitle timings for language learning](https://www.youtube.com/watch?v=8o6EOLU8QW0)
+2. Install Japanese keyboard
 
 ## Subreddits
 1. [/r/LearnJapanese/](https://www.reddit.com/r/LearnJapanese/) 
 
 ## Audio content
 1. Top Japanese podcasts (from Apple/Spotify rankings)
+2.
+3. Japanese news channels, e.g. [ANN](https://www.youtube.com/user/ANNnewsCH)
 4.[ Kaz's Japanese 101](https://www.youtube.com/user/eigonodo/videos): I highly recommend listening to his teardowns to improve your pronounciation
 5. Radio
 
@@ -27,20 +43,15 @@
 
 ## Articles
 1. [Immersion](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide/)
-
-## Etc.
-1. Netflix subs browser extention
-2. [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F): Japanese anime subtitles
-3. Install Japanese keyboard
-5. Unseen Japan - [ENG] Amazing commentary on Japanese news, society, culture that you rarely find in mainstream media
+2. [Critical Frequency: A Brand New Way of Looking At Language Exposure](http://www.alljapaneseallthetime.com/blog/critical-frequency-a-brand-new-way-of-looking-at-language-exposure/) ("if you just come in contact with Japanese often enough, you will not only get good at it, but you will stay that way" & "reduce the gap between the last time you touched Japanese and the next time you touch it")
 
 ## Apps
 1. Memrise
 2. Duolingo
 3. LingoDeer
 4. Shirabe Jishou
-5.
-6.
+5. Tofugu
+6. WaniKani
 7.
 8. Busuu
 
