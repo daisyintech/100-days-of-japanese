@@ -1,5 +1,12 @@
 # Daily Log
 
+### Day 0: Goals
+* learn XX kanji
+* master 平仮名 (ひらがな) and 片仮名 (かたかな)
+* finish XX levels on Memrise
+* finish XX lessons on japanesePod101
+* how to measure pronounciation proficiency?
+
 ### Day 1: May X, 2020
 
 **Vocab**:
