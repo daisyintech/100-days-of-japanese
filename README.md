@@ -11,6 +11,6 @@ Before you start the challenge, I recommend setting goals, i.e. what do you want
 # Contents
 
 * [Daily Log](log.md)
-* [Resources](resources.md)
+* [Setup](setup.md)
 
 ## Disclaimer: layout inspired by the #100DaysOfCode repo 🙏
