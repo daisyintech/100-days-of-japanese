@@ -1,4 +1,5 @@
-# Resources for #100DaysOfJapanese
+# At home setup for #100DaysOfJapanese
+Please note, this is not a comprehensive list of available resources to help you learn Japanese: I figured, there's plenty of that type of content available with a quick Google search anyway. This is my current setup for optimal learning. Will be updated often.
 
 ## Tools
 1. [Nihongo dera](https://nihongodera.com/tools/kana-converter) - kana converter
@@ -27,19 +28,14 @@
 ## Subreddits
 1. [/r/LearnJapanese/](https://www.reddit.com/r/LearnJapanese/) 
 
-## Audio content
-1. Top Japanese podcasts (from Apple/Spotify rankings)
-2.
-3. Japanese news channels, e.g. [ANN](https://www.youtube.com/user/ANNnewsCH)
-4.[ Kaz's Japanese 101](https://www.youtube.com/user/eigonodo/videos): I highly recommend listening to his teardowns to improve your pronounciation
-5. Radio
-
-## Video content
-1. Niconico
-3. Dogen: learn pitch accent
-4. Japanese YouTube channels with JPN CC, e.g. [TOHO animation](), [JGCC](https://www.youtube.com/channel/UCXrYvk0VbzxxH77QVNpxjyg/videos)
+## Audio and video content
+1. Todai easy Japanese news (iPad app)
+2. Niconico
+3. [ Kaz's Japanese 101](https://www.youtube.com/user/eigonodo/videos) (teardowns are useful for pronounciation); and Dogen for pitch accent
+4. Japanese YouTube channels with JPN CC, e.g. [TOHO animation](https://www.youtube.com/user/tohoanimation/videos), [JGCC](https://www.youtube.com/channel/UCXrYvk0VbzxxH77QVNpxjyg/videos)
 5. Anime, movies etc. with Japanese subtitles
-6. [NHK](https://www.nhk.or.jp/) -- news
+6. Japanese news channels, e.g. [ANN](https://www.youtube.com/user/ANNnewsCH)
+7. Top Japanese podcasts (from Apple/Spotify rankings)
 
 ## Articles
 1. [Immersion](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide/)
@@ -52,8 +48,8 @@
 4. Shirabe Jishou
 5. Tofugu
 6. WaniKani
-7.
-8. Busuu
+7. Kanji Lookup
+8. Kanji Teacher
 
 ## Books
 1. Heisig
@@ -61,4 +57,4 @@
 
 ### Contents
 * [Daily log](log.md)
-* [Resources](resources.md)
+* [Setup](setup.md)
